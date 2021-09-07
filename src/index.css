@@ -1,0 +1,8 @@
+html {
+  overflow-y: overlay;
+}
+
+#root {
+  width: 1000px;
+  margin: 0 auto;
+}
